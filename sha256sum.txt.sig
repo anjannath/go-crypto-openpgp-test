@@ -1,0 +1,18 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+4f0edb2b9dc9bed2830e0751ec5e4cc3340207f7ab2a0fb97e26ab3833ef3178  crc-linux-amd64.tar.xz
+9403edcb8dceea4005864c04cac5fd344d185c647106967a02a26e9103d9b57e  crc-macos-installer.pkg
+92686a17ef49328a190edacb40016ea6c4549d1116e6a1d5a5da6096c659160a  crc-windows-installer.zip
+5f0709bad22f0d593a149a7d4a2b150ab0b6a4cc4f48abd1e1dae2853d6aa692  release-info.json
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEEjB7Llls8CtDgBytnBPTCEH8EW9sFAmPuFo0THHRlc3RrZXlA
+dGVzdGluZy5ldQAKCRAE9MIQfwRb2zZiB/9P3zlxC5iecn3c7nBMKko7PJ6sjYl6
+WXgodxyj23InQB2ZlI0a3xrEpGAkvj59dJJ7fmgVP1YIaQWrXlhNhLWz7vxArAbp
+OfFztvdk5YdEIeO9tBb4v0uD1UHSt+QMqcu4sa2Tr6N9BVIVosIBu7Y9w2f7B7Ud
+LAcVPN9OXiAXarK+c3vMsDwFbsNgE3CNxmVUONeqFQujggTDoSySInJXtOaWzhqw
+xNbbhcign2lAc5Equ/7D9dThBcRZPGqETSMIimsV+Gcp3wEqh+QcYmbHk7mFgJPz
+ySR7g2HtQasmt1zQZ6BqiqqPDvnB/yR88FbCy9co/wmfQiuGvVccC0Zp
+=eRd3
+-----END PGP SIGNATURE-----
